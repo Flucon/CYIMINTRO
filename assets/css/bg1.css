@@ -1,0 +1,35 @@
+
+		table {
+			border-collapse: collapse;
+			position: absolute;
+			left: 500px;
+			top: 270px;
+			color: black;
+		}
+
+		td {
+			padding: 15px;
+			text-align: center;
+			border-bottom: 1px solid black;
+		}
+
+		h1 {
+			position: absolute;
+			left: 850px;
+			top: 200px;
+			color: black;
+		}
+
+		.ttl {
+			position: absolute;
+			left: 850px;
+			top: 200px;
+\			color:black;
+		}
+
+		.ttl2 {
+			position: absolute;
+			text-align:center;
+			top: 620px;
+			color: black;
+		}
